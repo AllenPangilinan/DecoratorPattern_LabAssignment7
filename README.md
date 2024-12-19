@@ -10,10 +10,9 @@ The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
 Develop a decorator pattern approach that will implement the given UML diagram:
-
+![image](https://github.com/user-attachments/assets/1b6faf9d-56eb-45e1-a1fa-7e89b03f031a)
 
 The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name:
-
 public class Cimb {
 
 	public static void main(String[] args) {
@@ -51,10 +50,9 @@ public class Cimb {
 }
 
 You should display the following output:
-
+![image](https://github.com/user-attachments/assets/a1f86ff8-62fd-4eb9-afbb-a541ae9c4577)
 
 Description of the following methods:
-
 1. showAccountType() - Either returns "Savings Account", "GSave" or "UpSave".
 2. getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0% UpSave.
 3. getBalance() - Returns the balance of the account set.
@@ -64,4 +62,4 @@ Description of the following methods:
 
 BankAcountDecorator must be an interface.
 
-Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
+Follow instructions. You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
